@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alex Lee, I'm working in Kathmandu. 
+- 👋 Hi, I’m Alex Lee and working in Kathmandu now. 
 - 👀 I’m interested in Financial Mathematics and C++ & Python Programming Language.
-- 🌱 I’m currently learning *C++ for Financial Mathematics* and *Stochastic Calculus for Finance* in spare time.
+- 🌱 Currently learning *C++ for Financial Mathematics* and *Stochastic Calculus for Finance* in spare time.
 
 <!---
 bobcatzoo/bobcatzoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
